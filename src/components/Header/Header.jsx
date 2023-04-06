@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="bg-gray-300 p-5 rounded-md shadow-md">
+    <div className="bg-gray-300 p-5 rounded-md shadow-md ">
       <ul className="flex gap-5 font-bold">
         <li>
           <Link to="/">Home</Link>
